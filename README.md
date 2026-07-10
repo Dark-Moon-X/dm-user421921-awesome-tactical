@@ -68,5 +68,14 @@ List of Tools, Techniques, and Toys for Tactical Red team, Investigation, Counte
 * [Hak5](https://shop.hak5.org/) - Cyber Pentest tools and Training.
 
 ## ▶️ Video Content
-* [Dirty Civilian] - Weapons, Gear, Survival, Emergency preparedness. Very Fun and cinamatic.
-* [T.REX ARMS] - Rifles, Body armor.
+* [Dirty Civilian](https://www.youtube.com/@dirty-civilian) - Weapons, Gear, Survival, Emergency preparedness. Very Fun and cinamatic.
+* [T.REX ARMS](https://www.youtube.com/@TREXARMS) - Rifles, Body armor.
+
+## 📒 Books
+* [100 Deadly Skills by Clint Emmerson]()
+* [100 Deadly Skills: Survival Edition by Clint Emmerson]()
+* [100 Deadly Skills: Comabt edition by Clint Emmerson]()
+* [U.S. Army Intelligence and Interrogation Handbook]()
+* [U.S. Army Special Forces Guide to Unconventional Warfare]()
+* [U.S. Army Reconnaissance and Surveillance Handbook]()
+* [The Official CIA Manual of Trickery and Deception]()
