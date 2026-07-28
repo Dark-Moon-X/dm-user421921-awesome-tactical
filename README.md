@@ -15,6 +15,7 @@ List of Tools, Techniques, and Toys for Tactical Red team, Investigation, Counte
 
 ## 🕵🏻 Recon 
 #### Most tools can be found at the two top resources, though I will list some of my favorite.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating offensive tools as an MCP host with proof of exploitation and a local privacy gateway.
 * [Awesome Osint](https://github.com/jivoi/awesome-osint/blob/master/README.md) - Awesome Github repo for osint Tools. 
 * [OSINT Framework](https://osintframework.com/) - Online interactive bracket style database of OSINT Tools.
 * [BellingCat](https://www.bellingcat.com/) - Online case studies for investagative work.
